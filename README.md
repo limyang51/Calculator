@@ -1,7 +1,7 @@
 # Calculator
 AIESEC Internship Task
 
-To run the calculator double click Calculator.jar 
+To run the calculator download Calculator.jar then double click it. 
 
 If error message occured please run from the command line
 
